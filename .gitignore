@@ -1,0 +1,40 @@
+# Node / Frontend
+node_modules/
+dist/
+.vite/
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# IDE & Editors
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+
+# OS & System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# H2 Local Database Files
+*.db
+*.trace.db
+*.lock.db
+
+# Temporary Scratch Directory
+scratch/
